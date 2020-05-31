@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\bin\Debug\slanjeMailaForma.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\bin\Debug\slanjeMailaForma.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\bin\Debug\slanjeMailaForma.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\obj\Debug\slanjeMailaForma.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\obj\Debug\slanjeMailaForma.Form1.resources
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\obj\Debug\slanjeMailaForma.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\obj\Debug\slanjeMailaForma.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\obj\Debug\slanjeMailaForma.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovSlanjeEmaila\slanjeMailaForma\obj\Debug\slanjeMailaForma.pdb
